@@ -16,3 +16,12 @@ Git is a distributed version control system used to track changes in code and co
 
 This explains how Git tracks changes logically.
 
+ Example Workflow
+
+1. Modify file in working directory
+2. Stage changes
+   git add architecture.txt
+3. Commit snapshot
+   git commit -m Update architecture notes
+
+This workflow shows how data moves from working directory → staging → repository
