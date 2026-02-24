@@ -1,0 +1,9 @@
+# Git Advanced Notes
+
+## What is Git?
+Git is a distributed version control system used to track changes in code and collaborate efficiently.
+
+## Git Architecture
+- Working Directory
+- Staging Area
+- Repository
