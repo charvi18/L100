@@ -1,1 +1,5 @@
-Practiced working on a separate branch.
+ git branch                  # List branches
+git branch <name>           # Create branch
+git checkout <branch>       # Switch branch
+git checkout -b <name>      # Create & switch
+git merge <branch>          # Merge branch
