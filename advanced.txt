@@ -1,1 +1,1 @@
-Antigravity IDE used as per instructions.
+Explored stash, reset, and reflog concepts.
