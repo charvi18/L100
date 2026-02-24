@@ -1,1 +1,1 @@
-Practiced git status,add,commit,log,diff
+Today I practiced git status, add, commit, log and diff.
