@@ -1,0 +1,7 @@
+ git status          # Check current changes
+git add <file>      # Stage a file
+git add .           # Stage all files
+git commit -m msg # Save snapshot
+git log             # View history
+git log --oneline   # Short history
+git diff            # View changes 
