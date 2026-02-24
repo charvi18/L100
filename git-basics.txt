@@ -1,1 +1,9 @@
-Today I practiced git status, add, commit, log and diff.
+GIT BASICS
+
+git init → initialize repository
+git clone <url> → copy repo
+git status → check changes
+git add <file> → stage file
+git add . → stage all
+git commit -m message → commit changes
+git log → view history
