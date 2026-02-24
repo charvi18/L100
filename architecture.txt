@@ -7,3 +7,12 @@ Git is a distributed version control system used to track changes in code and co
 - Working Directory
 - Staging Area
 - Repository
+
+## Three States of Git
+
+1. Working Directory → Files you edit locally
+2. Staging Area → Files prepared for next commit
+3. Repository → Permanent history stored in Git
+
+This explains how Git tracks changes logically.
+
