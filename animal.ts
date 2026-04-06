@@ -29,6 +29,7 @@ function processAnimal(age: number, isHungry: boolean): void {
     if (age > 5) {
         console.log("Adult Animal");
         console.log("#####");
+        console.log("Branch change ");
         if (isHungry) {
             console.log("Feed the animal");
         } else {
