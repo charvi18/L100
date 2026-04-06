@@ -14,7 +14,7 @@ class Dog extends Animal {
     makeSound(): void {
         console.log("Dog barks");
         console.log("puppyyy");// dog-- animal  dog is a animal .. all properties inherit 
-          console.log("puppyy");
+        console.log("puppyy");
     }
 }
 
@@ -28,7 +28,7 @@ function processAnimal(age: number, isHungry: boolean): void {
 
     if (age > 5) {
         console.log("Adult Animal");
-
+        console.log("#####");
         if (isHungry) {
             console.log("Feed the animal");
         } else {
